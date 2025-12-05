@@ -24,13 +24,13 @@ repository               : "harris26-G/harris26-G.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hanze Guo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Research on LLM alignment and LLM for recommendation."
+  location         : "Beijing"
+  employer         : "Renmin University of China"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ghz@ruc.edu.cn" 
 
   # Academic websites
   academia         : # URL
