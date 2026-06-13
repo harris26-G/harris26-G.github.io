@@ -6,7 +6,7 @@ The site is based on Academic Pages and contains:
 
 - Research profile and selected publications
 - CCF-A publication list
-- Internship and education experience
+- Education background
 - CV and structured CV data
 
 ## Local Preview
