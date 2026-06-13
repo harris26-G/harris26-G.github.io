@@ -11,8 +11,6 @@ redirect_from:
 
 I am a Ph.D. student in Artificial Intelligence at the Gaoling School of Artificial Intelligence, Renmin University of China. My research focuses on large language model alignment, personalized reasoning, information retrieval, and recommendation systems.
 
-I am currently a Qingyun Program intern with the Tencent Yuanbao Agent Algorithm Group, working on VLM search agents. Previously, I interned at Kuaishou, Microsoft Research Asia, and OPPO Research Institute, where I worked on LLM reasoning, personalized search, pluralistic value alignment, and LLM-based time-series forecasting.
-
 My recent work studies how to make language models more controllable, personalized, and explainable. I have published three first-author CCF-A papers, including one NeurIPS paper, and have additional CCF-A submissions under review.
 
 ---
@@ -50,38 +48,6 @@ We develop **SoREX**, a self-explainable GNN-based social recommendation framewo
 Hanze Guo, Jianxun Lian, Xiao Zhou
 
 We study how sparse user-item interaction structures can be integrated with dense recommendation models, and propose a plug-and-play dual-view framework that improves performance, especially for long-tail items.
-
----
-
-## Internship Experience
-
-**Tencent, Yuanbao Agent Algorithm Group**  
-Qingyun Program Intern, VLM Search Agent, Apr. 2026 - Present
-
-- Work on multimodal search agents for visual-language search scenarios.
-- Explore VLM-based query understanding, visual information parsing, multimodal evidence retrieval, and answer generation.
-- Contribute to evaluation, data construction, and strategy optimization for real-world multimodal search pipelines.
-
-**Kuaishou, Search Technology Department**  
-Intern, Behavior Large Model Group, Sept. 2025 - Apr. 2026
-
-- Deployed Qwen-scale 100B models and conducted downstream reasoning distillation experiments.
-- Explored how to introduce LLM reasoning into personalized search tasks.
-- Trained LLM reasoning capabilities with full-parameter fine-tuning, CoT-based SFT, and GRPO on real business data.
-
-**Microsoft Research Asia (MSRA)**  
-Research Intern, Nov. 2024 - Jul. 2025
-
-- Worked on aligning large language models with pluralistic human preferences.
-- Developed counterfactual reasoning methods for controllable fine-grained preference adjustment.
-- Improved interpretability while maintaining personalized alignment performance.
-
-**OPPO Research Institute**  
-Research Intern, Jun. 2024 - Nov. 2024
-
-- Studied how to adapt LLMs to general time-series forecasting tasks.
-- Investigated the roles of text prompts and time-series signals in cross-modal forecasting.
-- Explored modeling, alignment, and fusion strategies for text-time-series information.
 
 ---
 
