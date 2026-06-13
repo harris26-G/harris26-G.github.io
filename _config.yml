@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Hanze Guo"
 title_separator          : "-"
 name                     : &name "Hanze Guo"
-description              : &description "Hanze Guo's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Hanze Guo's academic homepage: LLM alignment, personalized reasoning, information retrieval, and recommendation systems."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://harris26-G.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,12 @@ author:
   avatar           : "profile.png"
   name             : "Hanze Guo"
   pronouns         : # example: "she/her"  
-  bio              : "Research on LLM alignment and LLM for recommendation."
+  bio              : "Ph.D. student working on LLM alignment, personalized reasoning, retrieval, and recommendation."
   location         : "Beijing"
   employer         : "Renmin University of China"
   uri              : # URL
   email            : "ghz@ruc.edu.cn" 
+  github           : "harris26-G"
 
   
 
@@ -55,7 +56,7 @@ comments:
   disqus:
     shortname            :
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
     num_posts            : # 5 (default)
