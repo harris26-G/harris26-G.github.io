@@ -20,60 +20,7 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Tencent",
-      "position": "Qingyun Program Intern, Yuanbao Agent Algorithm Group",
-      "url": "",
-      "startDate": "2026-04",
-      "endDate": "Present",
-      "summary": "VLM Search Agent",
-      "highlights": [
-        "Work on multimodal search agents for VLM search scenarios.",
-        "Explore visual-language query understanding, visual information parsing, multimodal evidence retrieval, and answer generation.",
-        "Contribute to evaluation, data construction, and strategy optimization for real-world multimodal search pipelines."
-      ]
-    },
-    {
-      "name": "Kuaishou",
-      "position": "Intern, Search Technology Department, Behavior Large Model Group",
-      "url": "",
-      "startDate": "2025-09",
-      "endDate": "2026-04",
-      "summary": "LLM reasoning for personalized search",
-      "highlights": [
-        "Deployed Qwen-scale 100B models and conducted downstream reasoning distillation experiments.",
-        "Explored how to introduce LLM reasoning into personalized search tasks.",
-        "Trained LLM reasoning capabilities with full-parameter fine-tuning, CoT-based SFT, and GRPO on real business data."
-      ]
-    },
-    {
-      "name": "Microsoft Research Asia",
-      "position": "Research Intern",
-      "url": "",
-      "startDate": "2024-11",
-      "endDate": "2025-07",
-      "summary": "Pluralistic preference alignment for LLMs",
-      "highlights": [
-        "Worked on aligning large language models with pluralistic human preferences.",
-        "Developed counterfactual reasoning methods for controllable fine-grained preference adjustment.",
-        "Improved interpretability while maintaining personalized alignment performance."
-      ]
-    },
-    {
-      "name": "OPPO Research Institute",
-      "position": "Research Intern",
-      "url": "",
-      "startDate": "2024-06",
-      "endDate": "2024-11",
-      "summary": "LLM-based time-series forecasting",
-      "highlights": [
-        "Studied how to adapt LLMs to general time-series forecasting tasks.",
-        "Investigated the roles of text prompts and time-series signals in forecasting.",
-        "Explored modeling, alignment, and fusion strategies for text-time-series information."
-      ]
-    }
-  ],
+  "work": [],
   "education": [
     {
       "institution": "Renmin University of China",
