@@ -1,152 +1,163 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Hanze Guo",
+    "email": "ghz@ruc.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://harris26-G.github.io",
+    "summary": "Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China. Research interests include LLM alignment, personalized reasoning, information retrieval, and recommendation systems.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Beijing",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "harris26-G",
+        "url": "https://github.com/harris26-G"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "Tencent",
+      "position": "Qingyun Program Intern, Yuanbao Agent Algorithm Group",
+      "url": "",
+      "startDate": "2026-04",
+      "endDate": "Present",
+      "summary": "VLM Search Agent",
+      "highlights": [
+        "Work on multimodal search agents for VLM search scenarios.",
+        "Explore visual-language query understanding, visual information parsing, multimodal evidence retrieval, and answer generation.",
+        "Contribute to evaluation, data construction, and strategy optimization for real-world multimodal search pipelines."
+      ]
+    },
+    {
+      "name": "Kuaishou",
+      "position": "Intern, Search Technology Department, Behavior Large Model Group",
+      "url": "",
+      "startDate": "2025-09",
+      "endDate": "2026-04",
+      "summary": "LLM reasoning for personalized search",
+      "highlights": [
+        "Deployed Qwen-scale 100B models and conducted downstream reasoning distillation experiments.",
+        "Explored how to introduce LLM reasoning into personalized search tasks.",
+        "Trained LLM reasoning capabilities with full-parameter fine-tuning, CoT-based SFT, and GRPO on real business data."
+      ]
+    },
+    {
+      "name": "Microsoft Research Asia",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "2024-11",
+      "endDate": "2025-07",
+      "summary": "Pluralistic preference alignment for LLMs",
+      "highlights": [
+        "Worked on aligning large language models with pluralistic human preferences.",
+        "Developed counterfactual reasoning methods for controllable fine-grained preference adjustment.",
+        "Improved interpretability while maintaining personalized alignment performance."
+      ]
+    },
+    {
+      "name": "OPPO Research Institute",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "2024-06",
+      "endDate": "2024-11",
+      "summary": "LLM-based time-series forecasting",
+      "highlights": [
+        "Studied how to adapt LLMs to general time-series forecasting tasks.",
+        "Investigated the roles of text prompts and time-series signals in forecasting.",
+        "Explored modeling, alignment, and fusion strategies for text-time-series information."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Renmin University of China",
+      "area": "Artificial Intelligence",
+      "studyType": "Ph.D. student",
+      "startDate": "2022-09",
+      "endDate": "Present",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "University of Electronic Science and Technology of China",
+      "area": "Computer Science and Technology",
+      "studyType": "B.S.",
+      "startDate": "2018-09",
+      "endDate": "2022-06",
+      "gpa": "3.96/4.0",
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Large Language Models",
+      "keywords": [
+        "LLM alignment",
+        "RLHF",
+        "GRPO",
+        "LoRA",
+        "P-tuning",
+        "reasoning distillation",
+        "prompt engineering"
+      ]
+    },
+    {
+      "name": "Engineering",
+      "keywords": [
+        "PyTorch",
+        "Hugging Face Transformers",
+        "TRL",
+        "DeepSpeed",
+        "Qwen",
+        "RAG",
+        "Agent Search"
+      ]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Research",
+      "keywords": [
+        "LLM alignment",
+        "personalized reasoning",
+        "information retrieval",
+        "recommendation systems",
+        "multimodal search agents"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Counterfactual Reasoning for Steerable Pluralistic Value Alignment of Large Language Models",
+      "publisher": "NeurIPS 2025, CCF-A",
+      "releaseDate": "2025-12-01",
+      "website": "https://arxiv.org/abs/2510.18526",
+      "summary": "A counterfactual reasoning framework for steerable pluralistic value alignment of large language models."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "SoREX: Towards Self-Explainable Social Recommendation with Relevant Ego-Path Extraction",
+      "publisher": "ACM Transactions on Information Systems, 2025, CCF-A",
+      "releaseDate": "2025-01-01",
+      "website": "https://doi.org/10.1145/3777374",
+      "summary": "A self-explainable social recommendation framework with relevant ego-path extraction."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Why not Collaborative Filtering in Dual View? Bridging Sparse and Dense Models",
+      "publisher": "ACM Transactions on Information Systems, 2026, CCF-A",
+      "releaseDate": "2026-01-01",
+      "website": "",
+      "summary": "A plug-and-play dual-view recommendation framework that bridges sparse interaction structures and dense model representations."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
