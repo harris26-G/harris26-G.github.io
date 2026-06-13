@@ -42,29 +42,6 @@ Publications
 * **Regularization is Key: Enhancing Cross-Modal Relationships in LLM-Based Time Series Forecasting**  
   Hanze Guo, Cheng Bian, Qi Bi, Yeilei Li, Xiaoyu Li, Ramy Hussein, Xiangxu Zhang, Zijing Zeng, Xiao Zhou. Under review.
 
-Internship Experience
-======
-
-* **Tencent, Yuanbao Agent Algorithm Group**, Qingyun Program Intern, VLM Search Agent, Apr. 2026 - Present
-  * Work on multimodal search agents for VLM search scenarios.
-  * Explore visual-language query understanding, visual information parsing, multimodal evidence retrieval, and answer generation.
-  * Contribute to evaluation, data construction, and strategy optimization for real-world multimodal search pipelines.
-
-* **Kuaishou, Search Technology Department**, Intern, Behavior Large Model Group, Sept. 2025 - Apr. 2026
-  * Deployed Qwen-scale 100B models and conducted downstream reasoning distillation experiments.
-  * Explored LLM reasoning for personalized search tasks.
-  * Trained LLM reasoning abilities with full-parameter fine-tuning, CoT-based SFT, and GRPO on real business data.
-
-* **Microsoft Research Asia (MSRA)**, Research Intern, Nov. 2024 - Jul. 2025
-  * Worked on pluralistic preference alignment for large language models.
-  * Developed counterfactual reasoning methods for controllable fine-grained preference adjustment.
-  * Improved interpretability while maintaining personalized alignment performance.
-
-* **OPPO Research Institute**, Research Intern, Jun. 2024 - Nov. 2024
-  * Studied LLM adaptation for general time-series forecasting.
-  * Investigated the roles of text prompts and time-series signals.
-  * Explored modeling, alignment, and fusion strategies for cross-modal forecasting.
-
 Skills
 ======
 
